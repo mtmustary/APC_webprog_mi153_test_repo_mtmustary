@@ -68,7 +68,7 @@
 		<body>
 			<center>
 			<div class="link">
-				<a href="PHP.php">MAIN PAGE</a>
+				<a href="index.php">MAIN PAGE</a>
 			</div>
 			<label>MESSAGES ARE STORED HERE!</label>
 			<br><br>
