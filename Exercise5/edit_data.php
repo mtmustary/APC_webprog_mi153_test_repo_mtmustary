@@ -8,6 +8,7 @@
 	}
 	if(isset($_POST['btn-update']))
 	{
+		
 		// variables for input data
 		$name = $_POST['name'];
 		$nName = $_POST['nName'];
