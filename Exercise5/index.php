@@ -205,7 +205,7 @@ echo "<button type=\"button\" onclick=\"document.getElementById('born').innerHTM
 			style="background-color: white; color: red; border: white; font-family: simplifica; font-size: 35px; ">
 			
 		</form>
-		<a href="messages.php" class=button>MESSAGES ARE HERE DUDE!</a>
+		<a href="messages.php" class=button>MESSAGES ARE HERE DUDE!!</a>
 
 </body>
 </html>
