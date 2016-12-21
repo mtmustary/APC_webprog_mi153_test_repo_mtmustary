@@ -22,7 +22,7 @@
 		hAd = '$hAd' , gender = '$gender' , cNum = '$cNum' , message = '$comment' WHERE user_id=".$_GET['edit_id'];
 		//sql query for update data into database
 		 
-		// sql query execution function
+		//sql query execution function
 		if(mysqli_query($con,$sql_query))
 		{
 ?>
