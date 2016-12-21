@@ -74,7 +74,6 @@
 			<br><br>
 			<table align="center">
 				<th>NAME</th>
-				
 				<th>NICKNAME</th>
 				<th>EMAIL</th>
 				<th>ADDRESS</th>
