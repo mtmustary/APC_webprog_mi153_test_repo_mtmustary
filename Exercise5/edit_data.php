@@ -16,7 +16,7 @@
 		$gender = $_POST['gender'];
 		$cNum = $_POST['cNum'];
 		$comment = $_POST['comment'];
-		// variables for input data
+		//variables for input data
 		// sql query for update data into database
 		$sql_query = "UPDATE users SET name = '$name' , nName = '$nName' , email = '$email' , 
 		hAd = '$hAd' , gender = '$gender' , cNum = '$cNum' , message = '$comment' WHERE user_id=".$_GET['edit_id'];
