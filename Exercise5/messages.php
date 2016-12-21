@@ -75,7 +75,7 @@
 			<table align="center">
 				<th>NAME</th>
 				<th>NICKNAME</th>
-				<th>EMAIL</th>
+				<th>E-MAIL</th>
 				<th>ADDRESS</th>
 				<th>GENDER</th>
 				<th>CELLPHONE NUMBER</th>
