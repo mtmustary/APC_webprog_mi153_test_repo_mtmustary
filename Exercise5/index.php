@@ -10,7 +10,7 @@
 			$gender = $_POST['gender'];
 			$cNum = $_POST['cNum'];
 			$comment = $_POST['comment'];
-			// variables for input data
+			//variables for input data
 			
 			// sql query for inserting data into database			 
 			$sql_query = "INSERT INTO users(name,nName,email,hAd,gender,cNum,message) VALUES ('$name','$nName','$email','$hAd','$gender','$cNum','$comment')";
