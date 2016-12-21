@@ -70,7 +70,7 @@
 			<div class="link">
 				<a href="index.php">MAIN PAGE</a>
 			</div>
-			<label>MESSAGES ARE STORED HERE:</label>
+			<label>MESSAGES ARE STORED HERE!</label>
 			<br><br>
 			<table align="center">
 				<th>NAME</th>
