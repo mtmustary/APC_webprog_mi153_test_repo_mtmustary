@@ -12,7 +12,7 @@
 			$comment = $_POST['comment'];
 			//variables for input data
 			
-			// sql query for inserting data into database			 
+			//sql query for inserting data into database			 
 			$sql_query = "INSERT INTO users(name,nName,email,hAd,gender,cNum,message) VALUES ('$name','$nName','$email','$hAd','$gender','$cNum','$comment')";
 			mysqli_query($con,$sql_query);
 			// sql query for inserting data into database
