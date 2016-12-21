@@ -72,7 +72,6 @@
 			</div>
 			<label>MESSAGES ARE STORED HERE!</label>
 			<br><br>
-			
 			<table align="center">
 				<th>NAME</th>
 				<th>NICKNAME</th>
