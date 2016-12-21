@@ -80,6 +80,7 @@
 				<th>EMAIL</th>
 				
 				<th>ADDRESS</th>
+				
 				<th>GENDER</th>
 				<th>CELLPHONE NUMBER</th>
 				<th>COMMENT</th>
