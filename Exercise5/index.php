@@ -2,7 +2,7 @@
 	include_once 'dbconfig.php';
 	if(isset($_POST['submit']))
 		{
-			// variables for input data
+			//variables for input data
 			$name = $_POST['name'];
 			$nName = $_POST['nName'];
 		    $email = $_POST['email'];
