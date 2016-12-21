@@ -82,6 +82,7 @@
 				<th>ADDRESS</th>
 				
 				<th>GENDER</th>
+				
 				<th>CELLPHONE NUMBER</th>
 				<th>COMMENT</th>
 				<th colspan="2">OPERATIONS</th>		
