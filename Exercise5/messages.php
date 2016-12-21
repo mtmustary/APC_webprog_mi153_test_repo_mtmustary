@@ -76,6 +76,7 @@
 				<th>NAME</th>
 				
 				<th>NICKNAME</th>
+				
 				<th>EMAIL</th>
 				<th>ADDRESS</th>
 				<th>GENDER</th>
